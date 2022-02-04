@@ -1,0 +1,19 @@
+Jan: 
+
+  Week 1: Understanding Neocortex Project
+  
+  Week 2: Understanding Neocortex Project and Hierarchical Temporal Memory
+  
+  Week 3: Understanding Scalar Encoder and getting familar with Dataset(power consumption)
+  
+  Week 4: Pre processing dataset
+  
+ February:
+  
+  Week 1: Practicing to encode date using scalar encoder
+  
+  Week 2:
+  
+  Week 3:
+  
+  Week 4:
